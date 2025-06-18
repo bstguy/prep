@@ -1,3 +1,7 @@
+To get in contact or get Software Engineering and Interview Coaching go to [bstguy.github.io](https://bstguy.github.io/).
+
+This repository can be [found here](https://github.com/bstguy/prep).
+
 # Coding exercises to stay in shape.
 
 Click [here to see the exercises list](exercises.md).
